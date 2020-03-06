@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+.title {
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background: hotpink;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.wrapper {
+  background-color: white;
+  width: 90%;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px auto;
+}
+body {
+  background-color: lightgray;
+}
+.home {
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  padding: 0 20px;
+}
+.date {
+  font-style: italic;
+}
+h1, h2, h3, p {
+  margin-left: 20px;
+}
+.posts {
+  display: block;
+}
+.post {
+  background-color: lightblue;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}

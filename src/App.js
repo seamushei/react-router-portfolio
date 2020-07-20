@@ -34,7 +34,7 @@ function App() {
   return (
     <Router>
       <div className="title">
-        <h1>Welcome to Dean Town</h1>
+        <h1>Welcome to Erik Town</h1>
       </div>
       <nav>
         <ul>
